@@ -1,6 +1,6 @@
 # Bilibili 24小时挂机直播教程
 ## 0 参考
-参up主直播中华小当家的教程。
+参考up主zerokong直播中华小当家的教程。
 
 [zerokong的个人空间-哔哩哔哩](https://b23.tv/MfScS6T)
 
